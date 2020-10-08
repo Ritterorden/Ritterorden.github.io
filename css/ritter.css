@@ -1,22 +1,58 @@
 
 /* --- ############# xxx ############# --- */
+@font-face {
+    font-family: 'fette_kanzlei_osfregular';
+    src: url('fettekanzleiosf-webfont.woff2') format('woff2'),
+         url('fettekanzleiosf-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'alegreya_sanslight';
+    src: url('alegreyasans-light-webfont.woff2') format('woff2'),
+         url('alegreyasans-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/* --- ############# xxx ############# --- */
+body{
+  font-family: 'alegreya_sanslight'
+}
+
+h1,h2,h3,.fette{
+  font-family: 'fette_kanzlei_osfregular';
+}
+h1{
+  font-size: 5.56em;
+}
+
+/* --- ############# xxx ############# --- */
+.jumbotron{
+  background-color: #080001;
+  color: #b00017;
+}
 
 
 /* --- ############# xxx ############# --- */
 
 
 /* --- ############# xxx ############# --- */
+.color-main {
+  color: #b00017;
+}
 
+.color-dark {
+  color: #080001;
+}
+
+.color-alt {
+  color: #530c10;
+}
 
 /* --- ############# xxx ############# --- */
 
 
 /* --- ############# xxx ############# --- */
-
-
-/* --- ############# xxx ############# --- */
-
-
-/* --- ############# xxx ############# --- */
-
-
